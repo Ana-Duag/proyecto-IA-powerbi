@@ -72,6 +72,6 @@ El reto no es solo técnico, sino ético y educativo: **aprender a usar la IA si
 
 ## Autoras
 - **Ela Ruiz González**  
-- **Ana Pilar Dueñas**
+- **Ana Pilar Dueñas Agudo**
 
-Bootcamp de Análisis de Datos — Adalab, 2024
+**Bootcamp de Análisis de Datos — Adalab, 2025**
