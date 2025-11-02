@@ -2,9 +2,15 @@
 ### Proyecto Final · Bootcamp de Análisis de Datos · Adalab
 
 ## Descripción del proyecto
-Este proyecto analiza el estado global de la Inteligencia Artificial en el año 2024 mediante el estudio y visualización de indicadores económicos, tecnológicos y humanos.
+Este proyecto analiza el estado global de la Inteligencia Artificial en el año 2024 mediante el estudio y visualización de indicadores económicos, tecnológicos y humanos. **La valoración global se establece con un índice que se obtiene mediante la ponderación de los índices anteriores**. 
 
-Los indicadores económicos utilizados, han sido el PIB per cápita y el crecimiento económico anual, medidos en moneda y en tanto por ciento respectivamente. Los indicadores técnicos utilizados han sido el índice de utilización de IA, de desarrollo e investigación en IA, de preparación en IA y de infraestructura digital. Los indicadores humanos utilizados han sido el índice de regulación y ética en IA, de políticas de capital humano y de estrategias gubernamentales en IA y de talento y entorno operativo en IA. Los índices humanos y técnicos, son índices compuestos unas veces medidos de 0 a 100 (la mayor parte de las veces) y en otras ocasiones de 0 a 0,3. 
+- **Índicadores económicos utilizados**: PIB per cápita y crecimiento económico anual, medidos en moneda y en tanto por ciento respectivamente. 
+
+- **Índicadores técnicos utilizados**: índice de utilización de IA, de desarrollo e investigación en IA, de preparación en IA y de infraestructura digital. 
+
+- **Índicadores humanos utilizados**: índice de regulación y ética en IA, de políticas de capital humano y de estrategias gubernamentales en IA y de talento y entorno operativo en IA. 
+
+Los índices humanos y técnicos, son índices compuestos unas veces medidos de 0 a 100 (la mayor parte de las veces) y en otras ocasiones de 0 a 0,3. 
 
 
 A partir de tres datasets internacionales —**Global AI Tool Adoption Across Industries**, **AI Global Index** y **AI Preparedness Worldwide**— centrados en 62 países (desarrollados y economías en desarrollo) se construye una narrativa visual y analítica que examina la relación entre economía, infraestructura digital, desarrollo e investigación en IA y políticas y estrategias gubernamentales que influyen en la implementación de la Inteligencia Artificial en las distintas regiones del mundo. 
