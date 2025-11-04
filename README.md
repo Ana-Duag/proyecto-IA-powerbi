@@ -1,4 +1,4 @@
-# Proyecto: Panorama Mundial de la Inteligencia Artificial — 2024
+# Proyecto: Panorama Mundial de la Inteligencia Artificial 2024
 
 ## Descripción del proyecto
 Este proyecto analiza el estado global de la Inteligencia Artificial en el año 2024 mediante el estudio y visualización de indicadores económicos, tecnológicos y humanos. **La valoración global se establece con un índice que se obtiene mediante la ponderación de los índices anteriores**. 
